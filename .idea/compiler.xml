@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pig_service_cost" />
+        <module name="pig_common_db" />
+        <module name="pig_service_inventory_api" />
+        <module name="pig_service_cost_api" />
+        <module name="pig_service_indicator_api" />
+        <module name="pig_service_indicator" />
+        <module name="pig_EurekaServer" />
+        <module name="pig_service_inventory" />
+        <module name="pig_service_slaughter" />
+        <module name="pig_gateway_weixin" />
+        <module name="pig_common" />
+        <module name="pig_service_slaughter_api" />
+        <module name="pig_user_login" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pig_common" target="1.8" />
+      <module name="pig_common_db" target="1.8" />
+      <module name="pig_EurekaServer" target="1.8" />
+      <module name="pig_gateway" target="1.8" />
+      <module name="pig_gateway_weixin" target="1.8" />
+      <module name="pig_Parent" target="1.8" />
+      <module name="pig_service" target="1.8" />
+      <module name="pig_service_api" target="1.8" />
+      <module name="pig_service_cost" target="1.8" />
+      <module name="pig_service_cost_api" target="1.8" />
+      <module name="pig_service_indicator" target="1.8" />
+      <module name="pig_service_indicator_api" target="1.8" />
+      <module name="pig_service_inventory" target="1.8" />
+      <module name="pig_service_inventory_api" target="1.8" />
+      <module name="pig_service_slaughter" target="1.8" />
+      <module name="pig_service_slaughter_api" target="1.8" />
+      <module name="pig_user_login" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="pig_EurekaServer" options="-parameters" />
+      <module name="pig_common" options="-parameters" />
+      <module name="pig_common_db" options="-parameters" />
+      <module name="pig_gateway" options="-parameters" />
+      <module name="pig_gateway_weixin" options="-parameters" />
+      <module name="pig_service" options="-parameters" />
+      <module name="pig_service_api" options="-parameters" />
+      <module name="pig_service_cost" options="-parameters" />
+      <module name="pig_service_cost_api" options="-parameters" />
+      <module name="pig_service_indicator" options="-parameters" />
+      <module name="pig_service_indicator_api" options="-parameters" />
+      <module name="pig_service_inventory" options="-parameters" />
+      <module name="pig_service_inventory_api" options="-parameters" />
+      <module name="pig_service_slaughter" options="-parameters" />
+      <module name="pig_service_slaughter_api" options="-parameters" />
+      <module name="pig_user_login" options="-parameters" />
+    </option>
+  </component>
+</project>

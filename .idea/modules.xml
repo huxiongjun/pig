@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/pig_eurekaServer/pig_EurekaServer.iml" filepath="$PROJECT_DIR$/pig_eurekaServer/pig_EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pig_Parent.iml" filepath="$PROJECT_DIR$/.idea/pig_Parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig_common/pig_common.iml" filepath="$PROJECT_DIR$/pig_common/pig_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig_common_db/pig_common_db.iml" filepath="$PROJECT_DIR$/pig_common_db/pig_common_db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig_gateway/pig_gateway.iml" filepath="$PROJECT_DIR$/pig_gateway/pig_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig_gateway/pig_gateway_weixin/pig_gateway_weixin.iml" filepath="$PROJECT_DIR$/pig_gateway/pig_gateway_weixin/pig_gateway_weixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig_service/pig_service.iml" filepath="$PROJECT_DIR$/pig_service/pig_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig_service_api/pig_service_api.iml" filepath="$PROJECT_DIR$/pig_service_api/pig_service_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig_service/pig_service_cost/pig_service_cost.iml" filepath="$PROJECT_DIR$/pig_service/pig_service_cost/pig_service_cost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig_service_api/pig_service_cost_api/pig_service_cost_api.iml" filepath="$PROJECT_DIR$/pig_service_api/pig_service_cost_api/pig_service_cost_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig_service/pig_service_indicator/pig_service_indicator.iml" filepath="$PROJECT_DIR$/pig_service/pig_service_indicator/pig_service_indicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig_service_api/pig_service_indicator_api/pig_service_indicator_api.iml" filepath="$PROJECT_DIR$/pig_service_api/pig_service_indicator_api/pig_service_indicator_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig_service/pig_service_inventory/pig_service_inventory.iml" filepath="$PROJECT_DIR$/pig_service/pig_service_inventory/pig_service_inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig_service_api/pig_service_inventory_api/pig_service_inventory_api.iml" filepath="$PROJECT_DIR$/pig_service_api/pig_service_inventory_api/pig_service_inventory_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig_service/pig_service_slaughter/pig_service_slaughter.iml" filepath="$PROJECT_DIR$/pig_service/pig_service_slaughter/pig_service_slaughter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig_service_api/pig_service_slaughter_api/pig_service_slaughter_api.iml" filepath="$PROJECT_DIR$/pig_service_api/pig_service_slaughter_api/pig_service_slaughter_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pig_user_login/pig_user_login.iml" filepath="$PROJECT_DIR$/pig_user_login/pig_user_login.iml" />
+    </modules>
+  </component>
+</project>
